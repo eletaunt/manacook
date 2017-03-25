@@ -1,0 +1,22 @@
+{
+  "name": "manacook",
+  "version": "1.0.0",
+  "description": "Learn cooking like an RPG skill!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snowlemurr/manacook.git"
+  },
+  "author": "snowlemurr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snowlemurr/manacook/issues"
+  },
+  "homepage": "https://github.com/snowlemurr/manacook#readme",
+  "dependencies": {
+    "mongodb": "^2.2.25"
+  }
+}
